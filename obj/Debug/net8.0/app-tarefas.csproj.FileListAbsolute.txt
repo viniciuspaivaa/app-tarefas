@@ -1,0 +1,10 @@
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.RazorAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.RazorAssemblyInfo.cs
+C:\Users\Vinicius\Desktop\app-tarefas\obj\Debug\net8.0\app-tarefas.sourcelink.json
