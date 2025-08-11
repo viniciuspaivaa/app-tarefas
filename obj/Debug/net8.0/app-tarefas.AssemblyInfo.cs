@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("app-tarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+250fbd73790bfb76f888e4f24d4b08c692cefb06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c79631fc7ae9fa39960acf164287084011bd8b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("app-tarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("app-tarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

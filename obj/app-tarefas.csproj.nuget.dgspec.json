@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius\\Desktop\\app-tarefas\\app-tarefas.csproj": {}
+    "C:\\Users\\Alunos\\Desktop\\app-tarefas\\app-tarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius\\Desktop\\app-tarefas\\app-tarefas.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\app-tarefas\\app-tarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\app-tarefas\\app-tarefas.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\app-tarefas\\app-tarefas.csproj",
         "projectName": "app-tarefas",
-        "projectPath": "C:\\Users\\Vinicius\\Desktop\\app-tarefas\\app-tarefas.csproj",
-        "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius\\Desktop\\app-tarefas\\obj\\",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\app-tarefas\\app-tarefas.csproj",
+        "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\app-tarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -105,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
