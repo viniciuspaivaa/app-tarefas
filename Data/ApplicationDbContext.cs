@@ -10,5 +10,6 @@ namespace app_tarefas.Data
         {
         }
         public DbSet<Tipo> Tipos { get; set; } = null!;
+        public DbSet<Tarefa> Tarefas { get; set; } = null!;
     }
 }
